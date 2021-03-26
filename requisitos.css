@@ -1,0 +1,12 @@
+body{
+	font-family:sans-serif;
+	background:gainsboro ;
+}
+h2{
+	color: steelblue;
+	text-align: center;
+	margin-bottom: 55px;
+}
+p{
+	text-align: center;
+}
